@@ -80,8 +80,6 @@ The project demonstrates the effectiveness of tree-based models in predicting cu
 ## Author
 Mete Turkan
 - LinkedIn: [linkedin.com/in/mete-turkan](https://linkedin.com/in/mete-turkan)
-- Instagram: [@m_trkn46](https://instagram.com/m_trkn46)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+This project is licensed under the [MIT License](LICENSE).
